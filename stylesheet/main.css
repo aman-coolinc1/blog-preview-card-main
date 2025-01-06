@@ -59,13 +59,13 @@ main {
 .tag > p {
     padding: 5px 10px 5px 10px;
     font-weight: 800;
-    font-size: 0.8em;
+    font-size: 0.9em;
 }
 
 .publish-date {
     padding-top:10px;
     font-weight: 500;
-    font-size: 0.8em;
+    font-size: 0.9em;
 }
 
 .course-info > * {
@@ -74,7 +74,7 @@ main {
 .course-name > a:link, a:visited {
     color: hsl(0, 0%, 7%);
     text-decoration: none;
-    font-size: 1.4em;
+    font-size: 1.5em;
     font-weight: 800;
 }
 
@@ -93,7 +93,7 @@ a:hover {
     align-items: center;
     gap: 10px;
     font-weight: 800;
-    font-size: 0.8em;
+    font-size: 0.9em;
 }
 
 .course-author > figure > img{
